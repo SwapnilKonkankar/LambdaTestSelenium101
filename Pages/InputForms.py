@@ -10,7 +10,7 @@ class InputForms(BasePage):
         super().__init__(driver)
 
     # values for the form inputs
-    name = "Pranav Naik"
+    name = "Swapnil Konkankar"
     email = "testadmin@lambdatest.com"
     password = "@1234$lamdatest"
     company = "Lambdatest"
